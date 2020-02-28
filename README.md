@@ -1,4 +1,4 @@
-# [LUGARES.IO](https://lugaresio.heroku.com)
+# [LUGARES.IO](https://lugaresio.herokuapp.com)
 
 ### OBSERVACION:
   Esta es la version que subí a heroku. Hubo una reestructuración de carpetas y archivos. La estructura anterior y todos los commits anteriores se pueden encontrar [acá](https://github.com/diegocamy/lugaresIO)
